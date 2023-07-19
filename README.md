@@ -1,2 +1,2 @@
 # s-weatherapp
-[DEMO-LINK](s-weatherapp.netlify.app)
+[DEMO-LINK](https://s-weatherapp.netlify.app/)
